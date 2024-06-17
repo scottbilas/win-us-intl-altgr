@@ -14,6 +14,13 @@ All five dead keys (`` ` ``, `~`, `^`, `'` and `"`) are now only dead when AltGr
 Note that the original layout already defines several AltGr combinations, e.g. `AltGr+'` becomes `´`.
 If you want to type these characters in the modified layout, you should follow the old keycombination with a space: e.g. `AltGr+' <SPACE>` will produce `´`.
 
+Update by @scottbilas to make Portuguese easier:
+
+* Added AltGr(+Shift)+X -> ã(Ã)
+* Moved ¢ to AltGr+Shift+3
+* Moved © to AltGr+F
+* Moved ç(Ç) to AltGr(+Shift)+C
+
 ## How to Build or Install
 You can download the latest installer from the releases tab of this repo (https://github.com/thomasfaingnaert/win-us-intl-altgr/releases).
 
